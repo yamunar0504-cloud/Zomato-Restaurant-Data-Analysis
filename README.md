@@ -87,9 +87,6 @@ The following steps were performed before analysis:
 - Matplotlib  
 - Seaborn  
 - Jupyter Notebook
-  
-## 📁 Project Structure
-Zomato-Restaurant-Data-Analysis/ │ ├── Dataset/ ├── Notebook/ ├── Output_PDF/ └── README.md
 
 ## ✅ Conclusion
 This project demonstrates a **business-focused EDA approach**, converting raw restaurant data into **clear insights and actionable recommendations** that support strategic decision-making.
